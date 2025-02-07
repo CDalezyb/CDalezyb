@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A young and lazy boy in Beijing.
+A young and lazy man in Beijing.
