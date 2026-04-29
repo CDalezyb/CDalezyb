@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 A young and lazy man in Beijing.
 
-- 🔭 I’m currently working for **MooreThreads-AI-infra team, Beijing**.
-- 🌱 I’m currently learning **stuff about inference speeding and dist training**.
+- 🔭 I’m currently working for **Shopee, Beijing**.
+- 🌱 I’m currently learning **LLM inference dev**.
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help **with friendly and spiritful friends to share ideas and follow up the newest techniques**.
 - 💬 Ask me about ...
